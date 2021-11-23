@@ -1,4 +1,5 @@
 
+# Week 7 - Project Proposal
 #### *Machine Learning in FinTech*:  
 
 
