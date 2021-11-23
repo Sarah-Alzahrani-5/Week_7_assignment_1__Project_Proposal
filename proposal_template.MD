@@ -6,7 +6,7 @@
 RealTech. 
 
 **Dataset researched and located**:  
-Kaggle.com 
+Kaggle.com | 
 Link of data_set: https://www.kaggle.com/dansbecker/melbourne-housing-snapshot 
 
 **ML Use Case**:  
